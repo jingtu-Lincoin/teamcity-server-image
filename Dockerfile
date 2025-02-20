@@ -1,1 +1,1 @@
-docker pull jetbrains/teamcity-server
+FROM jetbrains/teamcity-server
